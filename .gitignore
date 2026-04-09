@@ -35,3 +35,4 @@ npm-debug.log
 Dockerfile
 .dockerignore
 .git
+/generated/prisma
